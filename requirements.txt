@@ -1,0 +1,17 @@
+langchain==0.2.10
+langchain-community>=0.0.10
+langchain-text-splitters>=0.0.1
+langchain-groq
+faiss-cpu
+sentence-transformers
+numpy
+fastapi
+uvicorn
+jinja2
+python-dotenv
+python-multipart
+pypdf
+requests
+aiohttp
+tenacity
+typing-extensions
